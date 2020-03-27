@@ -13,7 +13,7 @@ Versions
 =======================
 | String Blade  | Laravel Version | 
 | ------------- |----------------:|
-| 4.0m          | Laravel 7     |
+| 4.1           | Laravel 7     |
 | 4.0           | Laravel 6     |
 | 3.8           | Laravel 5.8     |
 | 3.7           | Laravel 5.7     |
@@ -45,14 +45,14 @@ Add the package to composer.json:
 
 	"require": {
 		...
-		"wpb/string-blade-compiler": "VERSION"
+		"philip1337/string-blade-compiler": "VERSION"
 	},
 	
-> To get versions 'composer show wpb/string-blade-compiler', such as 'dev-master, * 3.2.x-dev, 3.2.0, 3.0.x-dev, 3.0.0, 2.1.0, 2.0.x-dev, 2.0.0, 1.0.x-dev, 1.0.0'
+> To get versions 'composer show philip1337/string-blade-compiler', such as 'dev-master, * 3.2.x-dev, 3.2.0, 3.0.x-dev, 3.0.0, 2.1.0, 2.0.x-dev, 2.0.0, 1.0.x-dev, 1.0.0'
 
-On packagist.org at https://packagist.org/packages/wpb/string-blade-compiler
+On packagist.org at https://packagist.org/packages/philip1337/string-blade-compiler
 	
-    composer require "wpb/string-blade-compiler"
+    composer require "philip1337/string-blade-compiler"
  	
 Configuration
 =======================
