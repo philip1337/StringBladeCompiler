@@ -1,5 +1,5 @@
 {
-    "name": "wpb/string-blade-compiler",
+    "name": "philip1337/string-blade-compiler",
     "description": "Laravel Blade String Compiler, render string as blade templates",
     "keywords": ["laravel", "blade", "compiler"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "laravel/framework": "^6.0"
+        "laravel/framework": "^7.0"
     },
     "autoload": {
         "psr-4": {
